@@ -1,0 +1,59 @@
+# =============================================================
+# cf-home-shield — Personal Allowlist
+# =============================================================
+# Format: one domain per line
+# Lines starting with # are comments and are ignored
+# Add domains here that you want to NEVER block
+# =============================================================
+
+# --- Apple Services ---
+apple.com
+icloud.com
+apple-cloudkit.com
+cdn-apple.com
+mzstatic.com
+apple-dns.net
+
+# --- Google Services ---
+google.com
+googleapis.com
+googlevideo.com
+gstatic.com
+googleusercontent.com
+ytimg.com
+youtube.com
+
+# --- Microsoft / Windows Update ---
+microsoft.com
+windowsupdate.com
+update.microsoft.com
+download.microsoft.com
+office.com
+live.com
+outlook.com
+
+# --- Cloudflare ---
+cloudflare.com
+cloudflareinsights.com
+1dot1dot1dot1.cloudflare.com
+
+# --- Common Apps ---
+spotify.com
+scdn.co
+discord.com
+discordapp.com
+slack.com
+slack-edge.com
+zoom.us
+dropbox.com
+
+# --- New Zealand Specific ---
+govt.nz
+ird.govt.nz
+acc.co.nz
+nzbn.govt.nz
+
+# =============================================================
+# Add your custom domains below this line
+# =============================================================
+
